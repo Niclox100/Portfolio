@@ -1,0 +1,74 @@
+[
+  {
+    "name":"HTML",
+    "image": "/images/htmlLogo.png"
+  },
+  {
+    "name":"CSS",
+    "image": "/images/cssLogo.png"
+  },
+  {
+    "name":"Javascript",
+    "image": "/images/javascriptLogo.png"
+  },
+  {
+    "name":"React",
+    "image": "/images/reactLogo.png"
+  },
+  {
+    "name":"Next",
+    "image": "/images/nextLogo.png"
+  },
+  {
+    "name":"Node",
+    "image": "/images/nodeLogo.png"
+  },
+  {
+    "name":"Express",
+    "image": "/images/expressLogo.png"
+  },
+  {
+    "name":"Redux",
+    "image": "/images/reduxLogo.png"
+  },
+  {
+    "name":"Flutter",
+    "image": "/images/flutterLogo.png"
+  },
+  {
+    "name":"Postman",
+    "image": "/images/postmanLogo.png"
+  },
+  {
+    "name":"MongoDB",
+    "image": "/images/mongoLogo.png"
+  },
+  {
+    "name":"Tailwind",
+    "image": "/images/tailwindLogo.png"
+  },
+  {
+    "name":"MaterialUI",
+    "image": "/images/muiLogo.png"
+  },
+  {
+    "name":"Bootstrap",
+    "image": "/images/bootstrapLogo.png"
+  },
+  {
+    "name":"Firebase",
+    "image": "/images/firebaseLogo.png"
+  },
+  {
+    "name":"Git",
+    "image": "/images/gitLogo.png"
+  },
+  {
+    "name":"Github",
+    "image": "/images/githubLogo.png"
+  },
+  {
+    "name":"GitLab",
+    "image": "/images/gitlabLogo.png"
+  }
+]

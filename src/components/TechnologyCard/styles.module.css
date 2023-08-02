@@ -1,0 +1,12 @@
+.imageContainer {
+  min-height: 75px;
+  max-height: 75px; /* Establecer una altura máxima para el contenedor de imagen */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.image {
+  max-width: 100%;
+  max-height: 100%; /* La imagen ocupará todo el espacio disponible dentro del contenedor */
+}

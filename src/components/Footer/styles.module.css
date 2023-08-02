@@ -1,0 +1,29 @@
+.container{
+  width: 100%;
+  min-height: 200px;
+  background-color: #222;
+  padding: 0 20px;
+}
+
+.socialMediaContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 4px;
+  padding-top: 40px;
+}
+
+.socialMediaIcon{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  background-color: #333;
+  transition: transform 0.3s ease;
+  transform: scale(1);
+}
+
+.socialMediaIcon:hover{
+  transform: scale(1.1);
+}

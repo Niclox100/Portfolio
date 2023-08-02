@@ -1,0 +1,21 @@
+.container{
+  width: 100%;
+  min-height: 800px;
+  padding: 80px 25px;
+}
+
+.experienceDescription{
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.experienceCardContainer{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(75px, 1fr));
+  min-height: 400px;
+  max-width: 600px;
+  margin: 0 auto;
+  gap: 25px;
+  place-content: center;
+}

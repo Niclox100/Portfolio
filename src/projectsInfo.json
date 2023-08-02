@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Clon Visual Youtube",
+    "description": "Proyecto en el cual realize la maquetación de la pagina principal de Youtube",
+    "image": "/images/youtube.png",
+    "url": "https://front-youtube-ncolombo.vercel.app/"
+  }, 
+  {
+    "title": "E-Commerce",
+    "description": "Proyecto de un E-Commerce con filtrado por categoría o por busqueda, funcionalidad de agregar al carrito y ver tu lista de compras",
+    "image": "/images/ecommerce.png",
+    "url": "https://e-commerce-ncolombo.vercel.app/"
+  },
+  {
+    "title": "Pokedex",
+    "description": "Proyecto en el cual se consume una API de pokemons y se muestran en pantalla, con posibilidad de filtrarlos y marcarlos como favoritos",
+    "image": "/images/pokedex.png",
+    "url": "https://pokedex-ncolombo.vercel.app/"
+  },  
+  {
+    "title": "Rick y Morty",
+    "description": "Proyecto en el cual se consume una API de Rick y Morty y se muestran en pantalla, con posibilidad de filtrarlos, marcarlos como favoritos y activar el modo oscuro",
+    "image": "/images/rickymorty.png",
+    "url": " https://rick-morty-project-ncolombo.vercel.app/"
+  }
+]
